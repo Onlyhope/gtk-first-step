@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2018 Aaron Lee <leeaaron326@gmail.com> -->
+<component type="desktop">
+	<id>com.github.com.Onlyhope.gtk-first-step</id>
+	<metadata_license>CCO</metadata_license>
+	<name>First step</name>
+	<description>
+		<p>Insert quick summary of your app's main selling points and features.</p>
+		<p>This is an application to learn to create Elementary OS Apss</p>
+	</description>
+</component>
